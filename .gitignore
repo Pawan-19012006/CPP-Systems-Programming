@@ -1,0 +1,5 @@
+# Compiled C++ executables
+pointer
+dereferencing
+*.o
+*.out
