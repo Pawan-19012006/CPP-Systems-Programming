@@ -1,5 +1,6 @@
 # Compiled C++ executables
 pointer
 dereferencing
+declaration
 *.o
 *.out

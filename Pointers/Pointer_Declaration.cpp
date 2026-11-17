@@ -10,4 +10,5 @@ int main(){
     cout << "Variable Memory Address (via pointer): " << p << endl;
     cout << "Variable Value(direct): " << a << endl;
     cout << "Variable Value(via pointer): " << *p << endl;
+    cout << "Address of the pointer itself: " << &p << endl;
 }
