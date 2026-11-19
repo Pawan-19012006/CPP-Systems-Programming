@@ -1,6 +1,20 @@
-# Compiled C++ executables
-pointer
-dereferencing
-declaration
+# VS Code configuration
+.vscode/
+
+# Xcode generated files
+DerivedData/
+build/
+*.dSYM/
+
+# Compiled binaries and object files
 *.o
 *.out
+*.a
+*.dylib
+
+# macOS generated files
+.DS_Store
+
+# Debug and temporary files
+*.tmp
+*.log
